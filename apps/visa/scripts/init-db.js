@@ -1,4 +1,4 @@
-import { PrismaClient } from '@prisma/client';
+import { PrismaClient } from '@bantu/db';
 import { addDays, subDays, format } from 'date-fns';
 
 const prisma = new PrismaClient();

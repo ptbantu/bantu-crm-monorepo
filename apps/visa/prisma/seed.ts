@@ -1,4 +1,4 @@
-import { PrismaClient } from '@prisma/client';
+import { PrismaClient } from '@bantu/db';
 import seedData from './seed-data.json';
 
 const prisma = new PrismaClient();

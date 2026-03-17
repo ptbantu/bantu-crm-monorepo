@@ -1,6 +1,6 @@
 import { prisma } from '@/lib/prisma'
 import { getCurrentTenantId } from './tenant-context'
-import type { Lead, Opportunity, ActionLog, Customer, Product } from '@prisma/client'
+import type { Lead, Opportunity, ActionLog, SalesCustomer as Customer, Product } from '@bantu/db'
 
 /**
  * ═══════════════════════════════════════════════════════════════════════════

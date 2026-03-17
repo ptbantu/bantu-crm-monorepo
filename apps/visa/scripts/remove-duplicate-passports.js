@@ -1,4 +1,4 @@
-const { PrismaClient } = require('@prisma/client');
+const { PrismaClient } = require('@bantu/db');
 
 const prisma = new PrismaClient();
 

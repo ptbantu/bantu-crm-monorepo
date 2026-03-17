@@ -11,13 +11,13 @@
     "db:seed": "npx tsx prisma/seed.ts"
   },
   "dependencies": {
+    "@bantu/db": "workspace:*",
     "@base-ui/react": "^1.2.0",
     "@fontsource-variable/geist": "^5.2.8",
     "@google/genai": "^1.29.0",
     "@libsql/client": "^0.17.0",
     "@prisma/adapter-libsql": "^7.5.0",
     "@prisma/adapter-pg": "^7.5.0",
-    "@prisma/client": "^6.19.2",
     "@tailwindcss/postcss": "^4.0.0",
     "@types/imapflow": "^1.0.23",
     "@types/uuid": "^10.0.0",
@@ -40,7 +40,6 @@
     "pdf2pic": "^3.2.0",
     "pdfjs-dist": "^5.5.207",
     "pg": "^8.20.0",
-    "prisma": "^6.19.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "shadcn": "^4.0.3",
