@@ -1,0 +1,6 @@
+2026/03/15 07:41:03 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/bantuqifu.conf:18
+2026/03/15 14:44:56 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/bantuqifu.conf:18
+2026/03/15 19:43:48 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/bantuqifu.conf:18
+2026/03/15 22:53:26 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/bantuqifu.conf:18
+2026/03/15 22:56:54 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/bantuqifu.conf:18
+2026/03/16 06:17:16 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/conf.d/bantuqifu.conf:18
